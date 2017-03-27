@@ -1,5 +1,8 @@
 # Dicey
-Adjective
+[![CI Status](http://img.shields.io/travis/mikaoj/Dicey.svg?style=flat)](https://travis-ci.org/mikaoj/Dicey)
+[![Version](https://img.shields.io/cocoapods/v/Dicey.svg?style=flat)](http://cocoapods.org/pods/Dicey)
+[![License](https://img.shields.io/cocoapods/l/Dicey.svg?style=flat)](http://cocoapods.org/pods/Dicey)
+**Adjective**
 
 Unpredictable and potentially dangerous. *'democracy is a dicey business’'*
 ## What
