@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Dicey'
-  s.version          = '1.0.0'
-  s.summary          = 'A string matching framework.'
+  s.version          = '1.0.1'
+  s.summary          = 'A string matching framework. Score strings on similarity.'
 
   s.description      = <<-DESC
 String matching using Sørensen–Dice coefficient algorithm.

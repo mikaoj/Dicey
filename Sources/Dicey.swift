@@ -22,6 +22,9 @@
 
 import Foundation
 
+/**
+Dicey string comparison.
+*/
 public struct Dicey {
     /**
      Computes lexical similarity value in the range [0,1]
@@ -75,6 +78,9 @@ public struct Dicey {
     }
 }
 
+/**
+Dicey string comparison helper.
+*/
 extension String {
     /**
      Computes lexical similarity value in the range [0,1]
